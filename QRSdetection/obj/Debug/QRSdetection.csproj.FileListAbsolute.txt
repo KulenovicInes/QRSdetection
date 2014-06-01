@@ -1,0 +1,27 @@
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe.config
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\bin\Debug\QRSdetection.pdb
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csprojResolveAssemblyReference.cache
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Form1.resources
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Properties.Resources.resources
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csproj.GenerateResource.Cache
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.exe
+c:\users\_amna_\documents\visual studio 2012\Projects\QRSdetection\QRSdetection\obj\Debug\QRSdetection.pdb
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe.config
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.exe
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.pdb
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe.config
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.exe
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.pdb
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\bin\Debug\QRSdetection.pdb
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csprojResolveAssemblyReference.cache
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Form1.resources
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Properties.Resources.resources
+D:\RI_Materijali\4 godina 2 semestar\BSS\Seminarski\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csproj.GenerateResource.Cache
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\bin\Debug\QRSdetection.exe
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\bin\Debug\QRSdetection.pdb
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csprojResolveAssemblyReference.cache
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Form1.resources
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.Properties.Resources.resources
+C:\Users\_amna_\Desktop\QRSdetection\QRSdetection\obj\Debug\QRSdetection.csproj.GenerateResource.Cache
